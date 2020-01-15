@@ -6,9 +6,9 @@ title: Isaac Newtons's CV
 Embedded Software Developer
 
 ## Contact
-Email: erik.dyrelius@gmail.com
+_Email_: erik.dyrelius@gmail.com
 
-Address: Skogsvägen 5, 14144 Huddinge, Sweden
+_Address_: Skogsvägen 5, 14144 Huddinge, Sweden
 
 ## Currently
 
@@ -18,6 +18,56 @@ Doing predevelopment of the advanced Human-Machine interface of heavy commercial
 
 * Embedded real-time systems
 * Automotive HMI
+
+### Key competences
+
+* Programming languages at a very high level: C, C++, Python
+* Object oriented modelling
+* Embedded systems architecture and desigh
+* Low level device drivers and communication
+* Real-time operating systems (OSEK, VxWorks, ThreadX)
+
+## Occupation
+
+`February 1997 - February 2004` __Combitech Systems__,
+
+### Software Engineering Consultant, Linköping & Stockholm
+
+Various assignments in automotive, space and med tech, some axamples:
+
+- Architect and team lead of integrating cellular phone in a personal car.
+- System engineer of a space probe for the European Space Agency.
+- Developing the model based application and HMI of a blood measurement
+  device for hospital use.
+- Developing and object orientation mentoring for an All-Wheel-Drive
+  node for heavy vehicles.
+- Developing a specification and simulation environment for instrument
+  cluster for personal cars.
+
+`February 2004 - May 2007` __Sylog Sverige AB__,
+
+### Software Engineering Consultant, Stockholm
+
+Various assignments in automotive and med tech, some examples:
+
+- Development of HMI software for a tachograph for heavy vehicles.
+- Development of Phone connectivity for an infotainment system for
+  trucks.
+- Evaluation of production readyness of an anesthesia machine.
+
+`May 2007 - Present` __Scania CV AB__,
+
+### Functional Systems Architect, Södertälje
+
+- Responsible for systemization and allocation of functions in the
+  electrical vehicle system.
+
+### Senior System Developer, Södertälje
+
+- Defining architecture and doing system specification of HMI-systems
+  for trucks and busses.
+- Systemization, implementation, test and integration of HMI-functions
+  in heavy vehicles.
 
 ## Education
 
@@ -31,18 +81,6 @@ __Linköpings Tekniska Högskola, Linköping__
 
 - Datateknik (Computer Science and Technology)
 - Including break 1991-1992 for military service
-
-## Occupation
-
-`February 1997 - February 2004`
-__Combitech Systemes__, Linköping & Stockholm
-
-- 
-- 
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
