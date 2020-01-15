@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Erik Dyrelius's CV
 ---
 # Erik Dyrelius
 Embedded Software Developer
