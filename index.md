@@ -23,17 +23,17 @@ Doing predevelopment of the advanced Human-Machine interface of heavy commercial
 
 * Programming languages at a very high level: C, C++, Python
 * Object oriented modelling
-* Embedded systems architecture and desigh
+* Embedded systems architecture and design
 * Low level device drivers and communication
 * Real-time operating systems (OSEK, VxWorks, ThreadX)
 
 ## Occupation
 
-`February 1997 - February 2004` __Combitech Systems__,
+`1997 - 2004` __Combitech Systems__,
 
-### Software Engineering Consultant, Linköping & Stockholm
+_Software Engineering Consultant, Linköping & Stockholm_
 
-Various assignments in automotive, space and med tech, some axamples:
+Various assignments in automotive, space and med tech, some examples:
 
 - Architect and team lead of integrating cellular phone in a personal car.
 - System engineer of a space probe for the European Space Agency.
@@ -44,9 +44,9 @@ Various assignments in automotive, space and med tech, some axamples:
 - Developing a specification and simulation environment for instrument
   cluster for personal cars.
 
-`February 2004 - May 2007` __Sylog Sverige AB__,
+`2004 - 2007` __Sylog Sverige AB__,
 
-### Software Engineering Consultant, Stockholm
+_Software Engineering Consultant, Stockholm_
 
 Various assignments in automotive and med tech, some examples:
 
@@ -55,14 +55,14 @@ Various assignments in automotive and med tech, some examples:
   trucks.
 - Evaluation of production readyness of an anesthesia machine.
 
-`May 2007 - Present` __Scania CV AB__,
+`2007 - ` __Scania CV AB__,
 
-### Functional Systems Architect, Södertälje
+_Functional Systems Architect, Södertälje_
 
 - Responsible for systemization and allocation of functions in the
   electrical vehicle system.
 
-### Senior System Developer, Södertälje
+_Senior System Developer, Södertälje_
 
 - Defining architecture and doing system specification of HMI-systems
   for trucks and busses.
@@ -71,12 +71,12 @@ Various assignments in automotive and med tech, some examples:
 
 ## Education
 
-`1987-1990`
+`1987 - 1990`
 __Lundellska skolan, Uppsala__
 
 - Naturvetenskaplig linje, Datainriktning
 
-`1990-1997`
+`1990 - 1997`
 __Linköpings Tekniska Högskola, Linköping__
 
 - Datateknik (Computer Science and Technology)
