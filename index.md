@@ -10,6 +10,8 @@ _Email_: erik.dyrelius@gmail.com
 
 _Address_: Skogsvägen 5, 14144 Huddinge, Sweden
 
+_Mobile phone_: +46 709 852228
+
 ## Currently
 
 Doing predevelopment of the advanced Human-Machine interface of heavy commercial vehicles.
